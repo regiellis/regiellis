@@ -23,6 +23,9 @@ I'm a tech enthusiast who loves exploring new technologies and sharing knowledge
 
 ### 🧰 Project Highlights
 
+![Stats](https://github-readme-stats.vercel.app/api?username=regiellis&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=regiellis&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 | Type          | Tool Name & Repo                                                                 | Purpose                                                         |
 |---------------|----------------------------------------------------------------------------------|-----------------------------------------------------------------|
 | CLI/GO        | [Comfy Chair (GO)](https://github.com/regiellis/comfy-chair-go)                  | CLI tool for working on custom nodes for ComfyUI                |
@@ -43,10 +46,10 @@ For more, check out my [GitHub repositories](https://github.com/regiellis).
 > "Regi is a dedicated worker who enjoys new challenges. He takes responsibility for his work, plays well with others, and is able to self-manage priorities when necessary."  
 > — Laura Laytham, Head of Web at Sisense
 
-> "I've worked closely with Regi at ThisNext, and have found him to be an excellent front end developer... He always works hard and develops good relationships with his coworkers."  
+> "I've worked closely with Regi at ThisNext, and have found him to be an excellent front-end developer... He always works hard and develops good relationships with his coworkers."  
 > — Will Redd, Cofounder of ZipRecruiter
 
-> "Regi is a kick-ass developer, I could say the best I've worked with... His attitude is completely professional, his skills have saved my life many times."  
+> "Regi is a kick-ass developer, I could say the best I've worked with... His attitude is completely professional, and his skills have saved my life many times."  
 > — Three, Designer at Apple
 
 ---
