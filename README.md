@@ -1,23 +1,30 @@
 # 👋 Hey, I'm Regi Ellis
 
-Welcome to my little space on the web! I'm an award-winning developer based in Orlando, passionate about building innovative solutions and connecting creativity with technology. With over 15 years of experience, I've led cutting-edge web projects, mentored teams, and earned multiple industry awards along the way.
+Welcome to my corner of GitHub. This is where code, creative tech, automation, and experimentation all end up in the same room. I build tools, systems, and odd little ideas that sit somewhere between useful, expressive, and slightly obsessive.
 
 ---
 
 ### 🛠️ What I Do
 
-- **Full-Stack Web Development** (Front-end & Back-end)
-- **DevOps** (with a creative twist)
-- **Generative AI Systems** (ComfyUI, InvokeAI, LoRA tools)
-- **Unreal Engine Generalist** (ICVFX, real-time graphics, immersive experiences)
-- **Video Production** (green screen, dynamic content, traditional filming)
-- **Python & Go Tooling** (CLI tools, workflow automation)
+- **Internal Platforms** (legal ops, intake, document workflows, verification, support systems)
+- **Automation & Tooling** (Go, Python, CLI workflows, process cleanup, system glue)
+- **AI-Driven Workflows** (document processing, knowledge tooling, creative/LLM utilities)
+- **Engine & Plugin Development** (Rust and C++ plugins for Godot and Unreal Engine)
+- **Creative Tech** (real-time graphics, interactive systems, media-adjacent experiments)
 
 ---
 
 ### 💡 About Me
 
-I'm a tech enthusiast who loves exploring new technologies and sharing knowledge with the community. Whether it's building custom nodes for AI workflows, creating video content, or developing open-source tools, I enjoy solving real-world problems and collaborating with like-minded people.
+I’m drawn to projects that blend technical depth with creative direction. Some turn into workflow tools, some become AI utilities, some end up in video or real-time environments, and some just start as a curiosity I can’t leave alone. A good chunk of that energy goes into building private internal systems for legal operations, document handling, knowledge tooling, verification flows, automation, and team support, so not everything I make can live out in the open. I care a lot about building things that feel sharp, intentional, and worth using.
+
+---
+
+### 📍 Current Work
+
+I currently serve as **Director of Technology at DHN Attorneys**, where I build and guide internal systems across operations, automation, document workflows, and technical infrastructure.
+
+Alongside that, I also work as a **freelance contractor**, taking on select projects involving software development, creative technology, automation, and technical problem-solving.
 
 ---
 
