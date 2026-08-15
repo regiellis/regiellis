@@ -30,6 +30,9 @@ I also take freelance work: software development, creative technology, automatio
 
 ### Project Highlights
 
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=regiellis&theme=vue)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=regiellis&theme=vue)
+
 | Type       | Tool Name & Repo                                                             | Purpose                                                  |
 |------------|------------------------------------------------------------------------------|----------------------------------------------------------|
 | Go / MCP   | [Godot MCP (Go)](https://github.com/regiellis/godot-mcp-go)                  | AI-agent loop for Godot: build, play, observe, debug     |
