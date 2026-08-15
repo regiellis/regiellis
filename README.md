@@ -30,13 +30,9 @@ I also take freelance work: software development, creative technology, automatio
 
 ### Project Highlights
 
-![Stats](https://github-readme-stats.vercel.app/api?username=regiellis&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=regiellis&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
 | Type       | Tool Name & Repo                                                             | Purpose                                                  |
 |------------|------------------------------------------------------------------------------|----------------------------------------------------------|
 | Go / MCP   | [Godot MCP (Go)](https://github.com/regiellis/godot-mcp-go)                  | AI-agent loop for Godot: build, play, observe, debug     |
-| AI / ML    | [OpenMed](https://github.com/regiellis/openmed)                              | On-device healthcare AI: clinical NER and HIPAA de-ID    |
 | Go / MCP   | [SearXNG MCP (Go)](https://github.com/regiellis/mcp-searxng-go)              | MCP server for SearXNG: web, image, video, news search   |
 | Go SDK     | [fal.ai SDK (Go)](https://github.com/regiellis/sdk-fal-go)                   | Go client for the fal.ai inference platform              |
 | Go CLI     | [Godot Build Tools](https://github.com/regiellis/godot-build-tools)          | Build, deploy, and manage the Godot engine               |
